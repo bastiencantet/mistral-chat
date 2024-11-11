@@ -67,4 +67,6 @@ npm run start
 
 - Better error handling
 
+
+Tme spend on this project: 1H30
 Made with ❤️ by [Bastien CANTET](https://github.com/bastiencantet)
