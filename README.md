@@ -19,6 +19,7 @@ This is a simple chat app using Mistral-Nemo model and Mistral Typescript SDK
 - Memory management
 - Better UI/UX
 - See previous conversations and responses
+- Choose another model
 
 
 ## Getting Started
@@ -42,7 +43,7 @@ npm install
 
 3. Create a .env.local file in the root directory and add the following
 ```sh
-NEXT_PUBLIC_API_KEY=YOUR_API_KEY
+NEXT_PUBLIC_API_KEY=YOUR_API_KEY_FROM_MISTRAL
 ```
 
 
